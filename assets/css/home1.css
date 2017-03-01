@@ -1,0 +1,30 @@
+
+
+.single_product{
+	float:left;
+	padding:10px;
+	border: 1px solid lightgray;
+	border-width: 0.5px;
+	margin:40px;
+	width:220px;
+	height:230px;
+	text-align: center;
+
+}
+
+
+div a {
+	display : inline-block;
+	color : #000;
+}
+
+.book {
+
+	width:90px;
+	height:105px;
+
+}
+
+.single_product h3{
+	font-weight :lighter;
+}

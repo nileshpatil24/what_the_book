@@ -1,0 +1,31 @@
+
+Drop old databse
+
+Step 1: Create a database name: "what_the_book"
+step 2: import "what_the_book.sql" file from database folder
+
+
+=====================================================
+
+
+Admin Login
+
+use front end login panel for both user admin
+
+=====================================================
+
+
+
+=====================================================
+
+More help 
+
+Contact at :  nilpatil2411@gmail.com
+                   9768742885
+
+
+
+
+
+
+ 

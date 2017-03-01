@@ -1,0 +1,42 @@
+#footer{
+	margin-top : 1000px;
+	background-color : #ddd;
+	height: 250px;
+}
+
+
+#flogo{
+	float:left;
+	padding-top : 15px;
+	padding-left : 40px;
+	width : 80px;
+}
+
+#ftitle{
+	float:left;
+	text-align:left;
+	font-family:KoblenzBook;
+	font-size:20px;
+	color:#ec008b;
+	margin :87px 0 0 -90px;
+}
+
+.footerul{
+	float : left;
+	display : inline-block;
+	list-style : none;
+	margin : 20px 0 0 60px;
+	border-top : 1px solid #ec008b ;
+	width : 150px;
+
+}
+
+.footerul li{
+padding-top : 10px;
+margin-left : -39px;
+}
+
+.footerul li:first-child{
+	color: #ec008b;
+	font-size : 1.2em;
+}

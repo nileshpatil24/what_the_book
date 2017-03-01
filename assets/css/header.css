@@ -1,0 +1,123 @@
+body{
+	margin : 0px;
+	padding: 0px;
+}
+
+
+#logo{
+	display:inline;
+	padding-top : 5px;
+	padding-left : 70px;
+	width : 70px;
+}
+
+#title{
+	text-align:left;
+	font-family:KoblenzBook;
+	font-size:25px;
+	color:#ec008b;
+	margin :-30px 0 0 150px;
+}
+
+#header{
+	  position: fixed;
+	  top: 0;
+	  right: 0;
+	  left: 0;
+	  z-index: 2;
+	background-color : #fff;
+	height: 90px;
+}
+
+button{
+	display : inline-block;
+	float : right;
+	margin-top:-35px;
+	margin-right : 110px;
+	height : 35px;
+	border-radius : 5px;
+	color : #333;
+	background-color : #fff;
+	padding-bottom : 4px;
+	border : 0.5px solid gray;
+	cursor : pointer;
+}
+
+#signin{
+	margin-right : 200px;
+}
+
+#cart{
+	margin-right : 260px;
+}
+
+nav{
+	margin-top : 10px;
+	background-color:#aaa;
+	opacity: 0.6;
+	width:auto;
+	height : 38px;
+	color : #000;
+}
+
+.headerul{
+	padding-left:0px;
+}
+
+.headerul li {
+	list-style : none;
+	display : inline-block;
+	padding : 10px;
+	border-right : 0.1px solid lightblue;
+	text-align : center;
+	width :150px;
+
+}
+
+
+
+a{
+	text-decoration:none;
+	color: white;
+}
+
+.headerul a:hover {
+	display : inline-block;
+	font-size : 1em;
+	background-color:#FD3980 ;
+	color:#fff;
+}
+
+
+label {
+	font-weight :lighter;
+	margin-left : 270px;
+	font-size : 19px;
+}
+
+
+#search{
+	border-radius : 5px;
+	border-width: 0.5px;
+	margin : 3px 0 0 4px;
+	width : 40%;
+	height : 35px;
+	padding-left : 5px;
+}
+
+#find{
+	margin : 3px 0 0 -4px;
+	height : 35px;
+	background-color : #869;
+	color : white;
+	width : 90px;
+	font-size : 1em;
+
+}
+
+hr{
+	margin-top : -10px;
+    border-style: inset;
+    border-width: 0.5px;
+	opacity : 0.5;
+}
